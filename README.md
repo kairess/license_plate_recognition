@@ -1,7 +1,7 @@
 # License Plate Recognition (차량 번호판 인식기)
 
 - Recognize location of plate
-- Recognize characters in plate using tesseract
+- Recognize characters in plate using [tesseract](https://github.com/tesseract-ocr/tesseract)
 
 ![result.png](https://github.com/kairess/license_plate_recognition/raw/master/19%EC%98%A47777.jpg)
 
